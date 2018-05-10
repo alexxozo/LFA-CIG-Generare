@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/LFA_CIG_Generare.dir/main.cpp.o  -o LFA_CIG_Generare.exe -Wl,--out-implib,libLFA_CIG_Generare.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
