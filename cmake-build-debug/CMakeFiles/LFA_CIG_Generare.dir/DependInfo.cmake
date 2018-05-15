@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/cygdrive/c/Users/Alex/Desktop/GithubDesktop/LFA-CIG-Generare/cmake-build-debug/CMakeFiles/feature_tests.cxx" "/cygdrive/c/Users/Alex/Desktop/GithubDesktop/LFA-CIG-Generare/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_907e3.dir/feature_tests.cxx.o"
+  "/cygdrive/c/Users/Alex/Desktop/GithubDesktop/LFA-CIG-Generare/main.cpp" "/cygdrive/c/Users/Alex/Desktop/GithubDesktop/LFA-CIG-Generare/cmake-build-debug/CMakeFiles/LFA_CIG_Generare.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
